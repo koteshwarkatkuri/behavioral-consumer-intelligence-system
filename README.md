@@ -1,8 +1,11 @@
-# behavioral-consumer-intelligence-system
-
-## Overview
+# Behavioral Consumer Intelligence System
 
 An AI-powered behavioral analytics platform that predicts online consumer purchase intent using machine learning and explainable AI.
+
+## 🚀 Dashboard Preview
+![alt text](<Screenshot 2026-05-22 122306.png>)
+
+## Overview
 
 The system analyzes customer browsing behavior and identifies:
 - Purchase probability
